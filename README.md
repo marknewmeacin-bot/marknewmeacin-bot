@@ -168,8 +168,3 @@ Areas I'm exploring:
 
 <h3 align="center">Thanks for visiting my profile! 🚀</h3>
 
-<p align="center">
-  /*<a href="https://aku-website.vercel.app/">*/
-    🌐 Visit My Website
-  </a>
-</p>
