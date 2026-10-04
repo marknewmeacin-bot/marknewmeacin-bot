@@ -12,12 +12,12 @@ BCA Student | Web Developer | AI Enthusiast | Building Projects & Learning New T
 
 ## 👨‍💻 About Me
 
-- 🎓 BCA Student
-- 💻 Web Developer
-- 🤖 AI & AI Agent Enthusiast
-- 🌱 Currently learning new technologies and development tools
-- 🚀 Building real-world projects
-- 🧠 Interested in Full-Stack Development, AI Agents and Automation
+* 🎓 BCA Student
+* 💻 Web Developer
+* 🤖 AI & AI Agent Enthusiast
+* 🌱 Currently learning new technologies and development tools
+* 🚀 Building real-world projects
+* 🧠 Interested in Full-Stack Development, AI Agents and Automation
 
 ---
 
@@ -27,10 +27,10 @@ BCA Student | Web Developer | AI Enthusiast | Building Projects & Learning New T
 
 A modern website built using Next.js, React and TypeScript.
 
-🔗 **Live Website:**  
+🔗 **Live Website:**
 https://aku-website.vercel.app/
 
-🔗 **GitHub Repository:**  
+🔗 **GitHub Repository:**
 https://github.com/marknewmeacin-bot/aku-website
 
 ---
@@ -40,25 +40,30 @@ https://github.com/marknewmeacin-bot/aku-website
 A multi-vendor marketplace project with vendor management, products, orders and admin functionality.
 
 **Technologies:**
-- Next.js
-- React
-- TypeScript
-- MongoDB
-- Cloudinary
-- Clerk
+
+* Next.js
+* React
+* TypeScript
+* MongoDB
+* Cloudinary
+* Clerk
 
 ---
 
 ### 🏠 PG Finder
 
-Student accommodation website for finding and filtering PG properties.
+A student accommodation website that allows users to find and filter PG properties based on different requirements.
 
 **Technologies:**
-- PHP
-- MySQL
-- Bootstrap
-- JavaScript
-- AJAX
+
+* PHP
+* MySQL
+* Bootstrap
+* JavaScript
+* AJAX
+
+🔗 **Live Website:**
+https://pgfinder.kesug.com/
 
 ---
 
@@ -68,58 +73,62 @@ Building AI agent and multi-agent systems using Python and LLM technologies.
 
 Areas I'm exploring:
 
-- AI Agents
-- Multi-Agent Systems
-- Tool Calling
-- MCP
-- Python
-- Automation
-- AI APIs
+* AI Agents
+* Multi-Agent Systems
+* Tool Calling
+* MCP
+* Python
+* Automation
+* AI APIs
 
 ---
 
 ## 🛠️ Skills
 
 ### Programming
-- Python
-- JavaScript
-- TypeScript
-- PHP
-- C#
-- SQL
+
+* Python
+* JavaScript
+* TypeScript
+* PHP
+* C#
+* SQL
 
 ### Web Development
-- HTML
-- CSS
-- Bootstrap
-- React
-- Next.js
-- Node.js
+
+* HTML
+* CSS
+* Bootstrap
+* React
+* Next.js
+* Node.js
 
 ### Database
-- MySQL
-- MongoDB
-- SQL Server
+
+* MySQL
+* MongoDB
+* SQL Server
 
 ### AI & Tools
-- AI Agents
-- MCP
-- LLM APIs
-- Git
-- GitHub
-- VS Code
+
+* AI Agents
+* MCP
+* LLM APIs
+* Git
+* GitHub
+* VS Code
 
 ---
 
 ## 📚 Currently Learning
 
-- 🤖 AI Agents
-- 🔗 Multi-Agent Applications
-- ⚡ Next.js
-- ⚛️ React
-- 🐍 Python
-- ☁️ Cloud & Deployment
-- 🔧 API Integration
+* 🤖 AI Agents
+* 🔗 Multi-Agent Applications
+* ⚡ Next.js
+* ⚛️ React
+* 🐍 Python
+* ☁️ Cloud & Deployment
+* 🔧 API Integration
 
 ---
 
@@ -141,12 +150,12 @@ Areas I'm exploring:
 
 ## 🎯 Goals
 
-- Build real-world software projects
-- Improve full-stack development skills
-- Learn advanced AI technologies
-- Build useful AI agents
-- Contribute to open-source projects
-- Continue learning new technologies
+* Build real-world software projects
+* Improve full-stack development skills
+* Learn advanced AI technologies
+* Build useful AI agents
+* Contribute to open-source projects
+* Continue learning new technologies
 
 ---
 
@@ -167,4 +176,3 @@ Areas I'm exploring:
 ---
 
 <h3 align="center">Thanks for visiting my profile! 🚀</h3>
-
