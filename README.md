@@ -1,255 +1,178 @@
-<div align="center">
+<h1 align="center">Hi 👋, I'm Mark Newme</h1>
 
-# 👋 Hi, I'm **Mark Newme**
+<h3 align="center">
+BCA Student | Web Developer | AI Enthusiast | Building Projects & Learning New Technologies
+</h3>
 
-### 💻 BCA Student | Full-Stack Developer | 🤖 AI Enthusiast | 🚀 Builder
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0E75B6&center=true&vCenter=true&width=700&lines=Full-Stack+Web+Developer;AI+Agent+Enthusiast;Python+Developer;Next.js+%7C+React+%7C+TypeScript;Building+Real-World+Projects;Always+Learning+New+Technologies" alt="Typing SVG" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=marknewmeacin-bot&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-
-<br><br>
-
-<a href="https://github.com/marknewmeacin-bot">
-  <img src="https://img.shields.io/github/followers/marknewmeacin-bot?label=Followers&style=for-the-badge&color=0e75b6" />
-</a>
-<a href="https://github.com/marknewmeacin-bot?tab=repositories">
-  <img src="https://img.shields.io/github/stars/marknewmeacin-bot?label=Stars&style=for-the-badge&color=yellow" />
-</a>
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=marknewmeacin-bot&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```text
-🎓 BCA Student
-💻 Full-Stack Web Developer
-🤖 AI & AI Agent Enthusiast
-🐍 Python Developer
-🚀 Building real-world applications
-🧠 Exploring Multi-Agent Systems & Automation
-🌱 Constantly learning new technologies
-```
-
-I'm passionate about building practical software and experimenting with modern web technologies and AI.
-
-My current focus is on combining **Full-Stack Development + AI Agents + Automation** to build useful real-world applications.
+* 🎓 BCA Student
+* 💻 Web Developer
+* 🤖 AI & AI Agent Enthusiast
+* 🌱 Currently learning new technologies and development tools
+* 🚀 Building real-world projects
+* 🧠 Interested in Full-Stack Development, AI Agents and Automation
 
 ---
 
-## ⚡ What I'm Currently Working On
+## 🚀 Featured Projects
 
-<table>
-<tr>
-<td width="50%">
+### 🌐 AKU Website
 
-### 🤖 AI Agents
-
-* AI Agent Development
-* Multi-Agent Systems
-* Tool Calling
-* MCP
-* LLM APIs
-* Python Automation
-
-</td>
-
-<td width="50%">
-
-### 🌐 Web Development
-
-* Next.js
-* React
-* TypeScript
-* Node.js
-* MongoDB
-* Cloudinary
-
-</td>
-</tr>
-</table>
-
----
-
-# 🚀 Featured Projects
-
-## 🌐 AKU Website
-
-Modern web application built using **Next.js, React and TypeScript**.
-
-**Tech Stack**
-
-`Next.js` `React` `TypeScript` `Tailwind CSS`
+A modern website built using Next.js, React and TypeScript.
 
 🔗 **Live Website:**
 https://aku-website.vercel.app/
 
-🔗 **GitHub:**
+🔗 **GitHub Repository:**
 https://github.com/marknewmeacin-bot/aku-website
 
 ---
 
-## 🛒 AKU Multi-Vendor E-Commerce
+### 🛒 Aku Multi-Vendor E-Commerce
 
-A modern multi-vendor marketplace with vendor management, products, orders and administration.
+A multi-vendor marketplace project with vendor management, products, orders and admin functionality.
 
-### 🧰 Technologies
+**Technologies:**
 
-`Next.js` `React` `TypeScript` `MongoDB` `Cloudinary` `Clerk`
-
-### ✨ Features
-
-* 🛍️ Product management
-* 👨‍💼 Vendor management
-* 📦 Order management
-* 👤 Authentication
-* 🖼️ Cloud image management
-* 🛠️ Admin dashboard
-* 💰 Marketplace functionality
+* Next.js
+* React
+* TypeScript
+* MongoDB
+* Cloudinary
+* Clerk
 
 ---
 
-## 🏠 PG Finder
+### 🏠 PG Finder
 
-A student accommodation platform designed to help students discover suitable PG properties.
+A student accommodation website that allows users to find and filter PG properties based on different requirements.
 
-### 🧰 Technologies
+**Technologies:**
 
-`PHP` `MySQL` `Bootstrap` `JavaScript` `AJAX`
+* PHP
+* MySQL
+* Bootstrap
+* JavaScript
+* AJAX
 
-### ✨ Features
-
-* 🔎 Property search
-* 🏙️ City filtering
-* 💰 Price filtering
-* 👨‍👩‍👧 Gender preference
-* ⭐ Property ratings
-* 🏠 Property details
-* ❤️ Interested / Shortlist functionality
-* 👨‍💼 Admin management
-
-🌐 **Live Website**
-
+🔗 **Live Website:**
 https://pgfinder.kesug.com/
 
 ---
 
-## 🤖 AI Agent Projects
+### 🤖 AI Agent Projects
 
-I'm actively building and experimenting with AI agent systems using Python and LLM technologies.
+Building AI agent and multi-agent systems using Python and LLM technologies.
 
-### 🔬 Exploring
+Areas I'm exploring:
 
-```text
-AI Agents
-    ↓
-Tool Calling
-    ↓
-Multi-Agent Systems
-    ↓
-MCP
-    ↓
-LLM APIs
-    ↓
-Automation
-```
+* AI Agents
+* Multi-Agent Systems
+* Tool Calling
+* MCP
+* Python
+* Automation
+* AI APIs
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Skills
 
-## 💻 Programming Languages
+### Programming
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,cs,sql" />
+* Python
+* JavaScript
+* TypeScript
+* PHP
+* C#
+* SQL
+
+### Web Development
+
+* HTML
+* CSS
+* Bootstrap
+* React
+* Next.js
+* Node.js
+
+### Database
+
+* MySQL
+* MongoDB
+* SQL Server
+
+### AI & Tools
+
+* AI Agents
+* MCP
+* LLM APIs
+* Git
+* GitHub
+* VS Code
+
+---
+
+## 📚 Currently Learning
+
+* 🤖 AI Agents
+* 🔗 Multi-Agent Applications
+* ⚡ Next.js
+* ⚛️ React
+* 🐍 Python
+* ☁️ Cloud & Deployment
+* 🔧 API Integration
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=marknewmeacin-bot&show_icons=true&theme=default&hide_border=true" alt="GitHub Stats" />
 </p>
 
-## 🌐 Web Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,nodejs" />
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marknewmeacin-bot&layout=compact&hide_border=true" alt="Top Languages" />
 </p>
 
-## 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,mssql" />
-</p>
-
-## 🤖 AI & Development Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,git,github,vscode,postman,docker" />
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=marknewmeacin-bot&theme=default&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-# 📚 Currently Learning
+## 🎯 Goals
 
-<div align="center">
-
-| Technology             | Focus                  |
-| ---------------------- | ---------------------- |
-| 🤖 AI Agents           | Agent Development      |
-| 🔗 Multi-Agent Systems | Agent Collaboration    |
-| 🧠 LLMs                | AI Applications        |
-| ⚡ Next.js              | Full-Stack Development |
-| ⚛️ React               | Modern UI              |
-| 🐍 Python              | AI & Automation        |
-| 🔌 APIs                | Backend Integration    |
-| ☁️ Cloud               | Deployment             |
-
-</div>
+* Build real-world software projects
+* Improve full-stack development skills
+* Learn advanced AI technologies
+* Build useful AI agents
+* Contribute to open-source projects
+* Continue learning new technologies
 
 ---
 
-# 📊 GitHub Analytics
+## 🔗 Connect With Me
 
-<div align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=marknewmeacin-bot&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marknewmeacin-bot&layout=compact&theme=tokyonight&hide_border=true" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=marknewmeacin-bot&theme=tokyonight&hide_border=true" />
-
-</div>
+<p align="center">
+<a href="https://github.com/marknewmeacin-bot">
+GitHub
+</a>
+</p>
 
 ---
 
-# 🐍 Contribution Snake
+## 💡 Developer Mindset
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/marknewmeacin-bot/marknewmeacin-bot/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
+> Learn continuously. Build consistently. Improve every day.
 
 ---
 
-# 📈 GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=marknewmeacin-bot&theme=tokyo-night&hide_border=true" width="95%" />
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-```text
-┌─────────────────────────────────────────────┐
-│
-```
+<h3 align="center">Thanks for visiting my profile! 🚀</h3>
